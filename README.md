@@ -1,2 +1,8 @@
 # node-cli
-ceshi
+## 开启服务
+```shell
+npm i
+
+npm run start
+
+```
